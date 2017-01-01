@@ -1,6 +1,7 @@
-# Hackerrank
-Solutions of Hackerrank practice problems
+*Problem: Solution file*
 
-Filename - Link to problem
+# Artificial Intelligence
 
-PacmanDFS - https://www.hackerrank.com/challenges/pacman-dfs
+## A* Search
+
+PacMan - DFS: PacmanDFS.java

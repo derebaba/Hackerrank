@@ -11,6 +11,7 @@ PacMan - DFS: PacmanDFS.java
 ## Graph Theory
 
 Journey to the Moon: JourneyToTheMoon.java
+Kruskal (MST): Really Special Subtree: Kruskalmstrsub.java
 
 ## Implementation
 

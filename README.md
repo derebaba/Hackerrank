@@ -16,3 +16,9 @@ Kruskal (MST): Really Special Subtree: Kruskalmstrsub.java
 ## Implementation
 
 Sock Merchant: SockMerchant.java
+
+# Mathematics
+
+## Number Theory
+
+Power of large numbers: PoLN.java

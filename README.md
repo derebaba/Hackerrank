@@ -21,4 +21,5 @@ Sock Merchant: SockMerchant.java
 
 ## Number Theory
 
+Little Panda Power: LittlePandaPower.java
 Power of large numbers: PoLN.java

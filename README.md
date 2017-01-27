@@ -15,6 +15,7 @@ Kruskal (MST): Really Special Subtree: Kruskalmstrsub.java
 
 ## Implementation
 
+Non-Divisible Subset: NDS.java
 Sock Merchant: SockMerchant.java
 
 # Mathematics
